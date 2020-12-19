@@ -17,10 +17,5 @@
     TimeNTP_ESP8266WiFi.ino
     Example showing time sync to NTP time source
 
-### Donations
-
-If you find my project useful, I will appreciate if you donate me few bucks for further development or buy me a glass of beer or wine :wine_glass:.
-
-https://paypal.me/8bity
-
-I also collect and repair vintage [8-bit computers](http://www.8bity.cz/), so if you have some really old computer, I could give it a new home and care :smile:. Thank you!
+### To Do
+Modify the library to support four IS31FL3730 matrix driver chips (I2C addresses 0x60, 0x61, 0x62, and 0x63) on a custom board for total 8 digits. 
